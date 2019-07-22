@@ -6,15 +6,6 @@
 	<false/>
 	<key>destination</key>
 	<string>export</string>
-	<key>manifest</key>
-	<dict>
-		<key>appURL</key>
-		<string>https://ujoksimovic.github.io/euclidslock/Unity-iPhone.ipa</string>
-		<key>displayImageURL</key>
-		<string>https://upload.wikimedia.org/wikipedia/commons/3/30/Euklid-von-Alexandria_1.jpg</string>
-		<key>fullSizeImageURL</key>
-		<string>https://upload.wikimedia.org/wikipedia/commons/3/30/Euklid-von-Alexandria_1.jpg</string>
-	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
 	<key>signingStyle</key>
